@@ -29,7 +29,7 @@ The goal was to get a device responsive stattic web page:
 
 ### Screenshot
 This is a screenshot of my solution below.
-![](./screenshot.png)
+![](images/screenshot.png)
 
 
 ### Links
